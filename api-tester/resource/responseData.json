@@ -1,0 +1,18 @@
+{
+    "userId": 12345,
+    "sessionId": "7x78634",
+    "items": [
+        {
+            "name": "FIT Test",
+            "quantity": 1,
+            "price": 40.00
+        },
+        {
+            "name": "Allergy Test",
+            "quantity": 1,
+            "price": 60.00
+        }
+    ],
+    "discount": 15.00,
+    "subTotal": 85.00
+}
